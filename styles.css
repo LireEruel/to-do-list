@@ -1,0 +1,44 @@
+body {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.header {
+  background-color: #264653;
+  margin-top: 7%;
+  margin-bottom: 5%;
+  padding: 1%;
+  padding-bottom: 2%;
+  align-items: center;
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.inputText {
+  width: 80%;
+  padding: 1%;
+  vertical-align: middle;
+}
+
+.inputButton {
+  padding: 3px;
+  width: 17%;
+  vertical-align: middle;
+  font-size: x-large;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  background-color: bisque;
+  font-size: x-large;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+  padding: 1%;
+}
