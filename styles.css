@@ -37,8 +37,8 @@ ul {
 li {
   background-color: bisque;
   font-size: x-large;
-  text-align: center;
   list-style: none;
+  padding-left: 10%;
   width: 100%;
   padding: 1%;
 }
